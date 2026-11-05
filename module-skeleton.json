@@ -1,0 +1,15 @@
+{
+  "repository": "module-control-panel-files-flutter",
+  "capabilityKey": "liberusoftware/module-control-panel-files",
+  "presentation": "mobile-flutter",
+  "package": "module_control_panel_files_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/control-panel/nextjs/files.md",
+  "presentationPlan": "projects/control-panel/flutter/files.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "control-panel"
+  ]
+}
